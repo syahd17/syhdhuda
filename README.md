@@ -72,11 +72,6 @@
 
 ---
 
-### 📫 Hubungi Saya
-<div align="center">
-  <a href="mailto:syhdhuda1701@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" width="40" /></a>
-  <a href="[profil-linkedin-kamu]"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
-
 </div>
 
 ---
