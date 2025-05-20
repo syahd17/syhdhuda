@@ -46,14 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhdhuda&layout=compact&theme=dracula&hide_border=true" alt="Bahasa Teratas" />
 </div>
 
----
 
-### 🐍 Ular Kontribusi Saya
-<!--<div align="center">
-  <img src="https://raw.githubusercontent.com/syhdhuda/syhdhuda/output/github-contribution-grid-snake.svg" alt="Animasi Ular Kontribusi GitHub" style="max-width: 100%; height: auto;"/>
- </div> -->
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=syhdhuda&style=for-the-badge&color=blue" alt="Pengunjung Profil" />
