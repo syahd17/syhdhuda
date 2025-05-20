@@ -44,7 +44,7 @@
         <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="50" alt="E-Commerce"/>
         <h4 style="color: #ff6f61;">E-Commerce</h4>
         <p>Platform toko online dengan PHP & MySQL</p>
-        <a href="https://kasir.syahda.web.id/login" target="_blank"; style="color: #61dafb;">🔗 Lihat Demo</a>
+        <a href="https://kasir.syahda.web.id/login" target=_blank; style="color: #61dafb;">🔗 Lihat Demo</a>
       </td>
     </tr>
   </table>
