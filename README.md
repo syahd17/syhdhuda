@@ -49,9 +49,9 @@
 ---
 
 ### 🐍 Ular Kontribusi Saya
-<div align="center">
+<!--<div align="center">
   <img src="https://raw.githubusercontent.com/syhdhuda/syhdhuda/output/github-contribution-grid-snake.svg" alt="Animasi Ular Kontribusi GitHub" style="max-width: 100%; height: auto;"/>
-</div>
+ </div> -->
 
 ---
 
