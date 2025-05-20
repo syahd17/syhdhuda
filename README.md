@@ -88,9 +88,9 @@
 </div>
 
 <!-- Custom Styling for GitHub only -->
-<style>
+/*<style>
 @keyframes fadeIn {
   from {opacity: 0; transform: translateY(-20px);}
   to {opacity: 1; transform: translateY(0);}
 }
-</style>
+ </style> */
