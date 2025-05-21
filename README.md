@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-family: 'Poppins', sans-serif; color: #ff6f61; animation: fadeIn 1s ease-in;">
-  👋 Halo, Saya <span style="color: #ffd369;">Syahdhuda</span>!
+  👋 Halo, Saya <span style="color: #ffd369;">Syhdhuda</span>!
 </h1>
 <p style="font-family: 'Montserrat', sans-serif; font-size: 1.1rem; color: #cccccc;">
   Seorang <strong>Web Developer</strong> yang antusias membangun solusi digital dengan <strong>HTML</strong>, <strong>CSS</strong>, <strong>PHP</strong>, dan <strong>Laravel</strong> 🚀
