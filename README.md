@@ -18,11 +18,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-> ℹ️ Statistik GitHub menggunakan layanan pihak ketiga. Jika gambar tidak muncul di **Editor Preview**, itu normal.
-> Silakan cek langsung di halaman profil setelah **Commit**.
-
 ### 📈 Highlights
 
 * ⭐ Aktif membangun project dengan **Laravel & PHP**
