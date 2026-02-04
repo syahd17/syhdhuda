@@ -1,96 +1,148 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syahdev&fontSize=80&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" alt="Header" />
-</p>
+# 👋 Hi, I'm Syahdev
 
-<div align="center">
+### 🚀 Full Stack Web Developer | Laravel Specialist
 
-<!-- Dynamic Typing Text -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Syahdev;Laravel+%7C+PHP+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate;Problem+Solver)](https://git.io/typing-svg)
+<!-- Header disabled: external service often blocked in GitHub preview -->
 
-
-  
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syhdhuda&label=Profile%20Views&color=FF6F61&style=for-the-badge" alt="syhdhuda" />
-  <img src="https://img.shields.io/github/followers/syhdhuda?label=Followers&style=for-the-badge&color=FFD369" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/syhdhuda?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=61DAFB" alt="Stars" />
-</p>
-
-</div>
-
----
-
-
-
-### 🚧 Sedang Mengerjakan
-- 🚀 Aplikasi berbasis Laravel dan Livewire
-- 🎨 Desain UI/UX modern & responsif dengan Tailwind CSS
-- 🔍 Eksplorasi arsitektur REST API dan SPA sederhana
-
-### 📘 Sedang Dipelajari
-- ⚙️ Optimasi performa Laravel & caching
-- 💡 Advanced Tailwind + animasi GSAP
-- 🔐 Autentikasi Laravel Fortify & Sanctum
-
-### 🤝 Terbuka untuk Kolaborasi
-- 💻 Proyek Laravel Open-Source
-- 🎯 Website kreatif dengan UX menarik
-- 🌐 Sistem manajemen atau dashboard digital
-
----
-## 🎯 About Me
+<!-- Static fallback header -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%" />
+  <strong>Building Digital Experiences</strong>
 </p>
 
-### 🌟 Proyek Unggulan
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="240">
-        <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="50" alt="ToDo App"/>
-        <h4 style="color: #ff6f61;">To-Do App</h4>
-        <p>Aplikasi manajemen tugas dengan Laravel</p>
-        <a href="[tautan-repo]" style="color: #61dafb;">🔗 Lihat di GitHub</a>
-      </td>
-      <td align="center" width="240">
-        <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="50" alt="E-Commerce"/>
-        <h4 style="color: #ff6f61;">E-Commerce</h4>
-        <p>Platform toko online dengan PHP & MySQL</p>
-        <a href="https://kasir.syahda.web.id/login" target="_blank" style="color: #61dafb;">🔗 Lihat Demo</a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=4000\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=700\&lines=Crafting+Elegant+Solutions+with+Code;Laravel+%26+PHP+Specialist;UI%2FUX+Enthusiast+%7C+Clean+Code+Advocate;Turning+Complex+Problems+into+Simple+Solutions)](https://git.io/typing-svg)
+
+</p>
 
 ---
 
-### 💼 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Livewire-4E1EE1?style=for-the-badge&logo=laravel&logoColor=white"/>
-</div>
+## 📊 GitHub Analytics
+
+> ℹ️ Statistik GitHub menggunakan layanan pihak ketiga. Jika gambar tidak muncul di **Editor Preview**, itu normal.
+> Silakan cek langsung di halaman profil setelah **Commit**.
+
+### 📈 Highlights
+
+* ⭐ Aktif membangun project dengan **Laravel & PHP**
+* 🚀 Fokus pada **clean architecture** dan performa aplikasi
+* 🧩 Berpengalaman membuat **dashboard, admin panel, dan SaaS**
+
+<details>
+<summary><strong>📊 Tampilkan GitHub Stats (opsional)</strong></summary>
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syhdhuda\&show_icons=true\&hide_border=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syhdhuda\&layout=compact\&hide_border=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syhdhuda\&hide_border=true\&theme=radical)
+
+</p>
+
+</details>
 
 ---
 
+## 🛠️ Tech Stack & Tools
 
-### ⚡ Fun Facts
-- 🔧 Suka memecah logika kompleks menjadi UI yang elegan
-- ☕ Pecinta kopi + coding malam = ide kreatif tak terbendung
-- 🧠 Selalu penasaran dengan cara kerja hal-hal di balik layar
+### 🎯 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge\&logo=alpine.js\&logoColor=white)
+
+### ⚙️ Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E1EE1?style=for-the-badge\&logo=laravel-livewire\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge\&logo=json\&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syhdhuda&style=for-the-badge&color=ff6f61" alt="Visitor Badge" />
-</div>
+## 🌟 Featured Projects
 
-<!-- Custom Styling for GitHub only -->
+| Project                    | Description                        | Tech Stack                  | Status                                         |
+| -------------------------- | ---------------------------------- | --------------------------- | ---------------------------------------------- |
+| 🎯 **E-Commerce Platform** | Online store with admin dashboard  | Laravel, Livewire, Tailwind | [Live Demo](https://kasir.syahda.web.id/login) |
+| 📝 **Task Management App** | Real-time to-do & productivity app | Laravel, Alpine.js          | In Development                                 |
+| 📊 **Analytics Dashboard** | Interactive charts & reporting     | Laravel, Livewire           | Planning                                       |
 
+---
 
+## 📈 Current Focus
 
+```text
+🌱 Learning
+- Laravel Performance Optimization
+- Advanced Tailwind & Animations
+- API Architecture & Microservices
+
+🚀 Building
+- SaaS Application (Laravel)
+- Reusable UI Components
+- Open-Source Packages
+
+🎯 Goals
+- Master Advanced Laravel Patterns
+- Contribute to Open Source
+- Build Scalable Systems
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://syahda.web.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/syahdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact@syahda.web.id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/syhdhuda)
+
+</p>
+
+---
+
+## ✨ Fun Facts
+
+```js
+const syahdev = {
+  role: "Full Stack Web Developer",
+  stack: ["Laravel", "Livewire", "Tailwind"],
+  loves: ["Clean Code", "Good UI", "Coffee"],
+  mindset: "Simplicity scales better",
+};
+```
+
+---
+
+<p align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=syhdhuda\&color=7C3AED\&style=flat-square)
+![Followers](https://img.shields.io/github/followers/syhdhuda?color=4F46E5\&logo=github\&style=flat-square)
+![Stars](https://img.shields.io/github/stars/syhdhuda?color=7C3AED\&logo=github\&style=flat-square)
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
+
+<p align="center">☕ <a href="https://buymeacoffee.com/syahdev">Buy me a coffee</a> • 🚀 Let’s build something amazing</p>
