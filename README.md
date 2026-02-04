@@ -30,16 +30,27 @@
 * 🧩 Berpengalaman membuat **dashboard, admin panel, dan SaaS**
 
 <details>
-<summary><strong>📊 Tampilkan GitHub Stats (opsional)</strong></summary>
+<summary><strong>📊 GitHub Stats (opsional)</strong></summary>
+
+> ⚠️ Catatan: GitHub Editor Preview sering **tidak menampilkan image eksternal**.
+> Jika di bawah ini kosong / tidak muncul, **cek langsung di halaman profil setelah Commit**.
 
 <p align="center">
+  <a href="https://github.com/syhdhuda">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syhdhuda&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syhdhuda\&show_icons=true\&hide_border=true\&theme=radical)
+<p align="center">
+  <a href="https://github.com/syhdhuda?tab=repositories">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syhdhuda&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syhdhuda\&layout=compact\&hide_border=true\&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syhdhuda\&hide_border=true\&theme=radical)
-
+<p align="center">
+  <a href="https://github.com/syhdhuda">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syhdhuda&hide_border=true&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 </details>
